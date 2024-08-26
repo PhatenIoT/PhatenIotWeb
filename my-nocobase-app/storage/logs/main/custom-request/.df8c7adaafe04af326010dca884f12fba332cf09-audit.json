@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\webProject\\NocoBase项目\\PhatenWeb-NocoBase\\my-nocobase-app\\storage\\logs\\main\\custom-request\\.df8c7adaafe04af326010dca884f12fba332cf09-audit.json",
+    "files": [
+        {
+            "date": 1724653074617,
+            "name": "D:\\webProject\\NocoBase项目\\PhatenWeb-NocoBase\\my-nocobase-app\\storage\\logs\\main\\custom-request\\2024-08-26.log",
+            "hash": "3bf0e54f0d547ba325139015c3df90bdf69dfd661ae06d975a35657c206f6926"
+        }
+    ],
+    "hashType": "sha256"
+}
